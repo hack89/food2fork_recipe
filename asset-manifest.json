@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food2fork_recipe/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/food2fork_recipe/static/js/main.04309e12.chunk.js",
+    "main.js.map": "/food2fork_recipe/static/js/main.04309e12.chunk.js.map",
+    "runtime~main.js": "/food2fork_recipe/static/js/runtime~main.68add553.js",
+    "runtime~main.js.map": "/food2fork_recipe/static/js/runtime~main.68add553.js.map",
+    "static/js/2.ebce2b6b.chunk.js": "/food2fork_recipe/static/js/2.ebce2b6b.chunk.js",
+    "static/js/2.ebce2b6b.chunk.js.map": "/food2fork_recipe/static/js/2.ebce2b6b.chunk.js.map",
+    "index.html": "/food2fork_recipe/index.html",
+    "precache-manifest.51cf2ed488c4e28c1c75e513ec15ca0d.js": "/food2fork_recipe/precache-manifest.51cf2ed488c4e28c1c75e513ec15ca0d.js",
+    "service-worker.js": "/food2fork_recipe/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/food2fork_recipe/static/css/main.d498bfb3.chunk.css.map"
+  }
+}
